@@ -1,0 +1,38 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    p{
+        color: aliceblue;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-size: 25px;
+    }
+    a{
+        color: aliceblue;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+}
+.footer__top{
+    ul{
+        display: flex;
+        align-items: center;
+        padding: 0 30px;
+        margin-top: 20px;
+        gap: 20px
+        ;
+        a{
+            color: grey;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        }
+    }
+}

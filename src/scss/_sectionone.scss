@@ -1,0 +1,49 @@
+.section__one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 345px;
+    margin-left: 50px;
+    pre{
+                color: grey;
+        margin-left: 100px;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-size: 15px;
+    }
+    h2{
+          margin-left: 100px;
+        color: white;
+        font-size: 36px;
+        font-weight: 200;
+        margin-top: 10px;
+    }
+    p{
+                margin-left: 100px;
+        color: white;
+        font-size: 20px;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        margin-top: 40px;
+
+    }
+    button{
+        background: blue;
+        width: 130px;
+        height: 40px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-left: 100px;
+        
+    }
+}
+main{
+    background: #121214;
+    width: 75.6%;
+    margin-left: 233px;
+}

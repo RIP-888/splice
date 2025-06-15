@@ -1,0 +1,32 @@
+.section__two{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    p{
+        margin-left: 100px;
+        color: white;
+        font-size: 20px;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        margin-top: 40px;
+    }
+    h2{
+          margin-left: 100px;
+        color: white;
+        font-size: 36px;
+        font-weight: 200;
+        margin-top: 10px;
+    }
+    pre{
+        color: grey;
+        margin-left: 100px;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-size: 15px;
+    }
+}

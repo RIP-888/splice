@@ -1,0 +1,42 @@
+.section__four{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    padding: 0 150px;
+    gap: 50px;
+    pre{
+        color: grey;
+        font-size: 13px;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        margin-left: 50px;
+        font-style: normal;
+    }
+    h2{
+        color: white;
+        font-size: 35px;
+        font-weight: 300;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+    p{
+        color: white;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        margin-top: 30px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    button{
+        background: blue;
+        width: 120px;
+        height: 40px;
+        border-radius: 10px;
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+}

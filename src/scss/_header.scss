@@ -1,0 +1,46 @@
+.header__main{
+    background-color: #0033FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+.header__section{
+    img{
+        width: 100%;
+    }
+}
+.header__section__txt{
+    margin-top: -700px;
+    margin-left: 50px;
+    h1{
+        font-size: 60px;
+        font-weight: 300;
+        color: aliceblue;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+    p{
+        display: block;
+        color: #fff;
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: 30px;
+        font-family: "Nunito", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+    }
+    button{
+        background: #0033FF;
+        width: 120px;
+        height: 40px;
+        border-radius: 5px;
+        margin-top: 30px;
+        a{
+            color: #fff;
+        }
+    }
+}

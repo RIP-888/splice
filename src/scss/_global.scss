@@ -7,6 +7,7 @@
     margin: 0 auto;
     max-width: 1440px;
     width: 100%;
+    background: #121214;
 }
 li{
     list-style: none;
@@ -17,4 +18,12 @@ a{
 }
 button{
     border: none;
+}
+a:hover{
+    color: grey;
+    transition: 1s;
+}
+button:hover{
+    background: #000;
+    transition: 1s;
 }
